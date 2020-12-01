@@ -1,3 +1,3 @@
 # Travel-App
 
-Link para video no youtube : https://youtu.be/QWZrYIehNa0
+Link para demonstração do app: https://youtu.be/QWZrYIehNa0
